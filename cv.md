@@ -47,7 +47,8 @@ function colorOf(r,g,b){
 
 * Course "Quick start. Programmer. Digital Professions" by [GeekBrains](gb.ru) (completed)
 * HTML & CSS tutorials by [Mimo](https://mimo.org) (in progress)
-* Course «JavaScript/Front-end. Stage 0» by RS School (in progress)
+* Course "JavaScript/Front-end. Stage 1" by RS School (in progress)
+* Course "Web-developer" by Federal State Educational Budgetary Institution of Higher Education "Financial University under the Government of the Russian Federation" (in progress)
 
 ## Languages
 
